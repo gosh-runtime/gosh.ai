@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Project cover" width="100%" />
+  <img src="icon.webp" alt="Project icon" width="25%" />
+  <img src="logo.webp" alt="Project logo" width="25%" />
 </p>
